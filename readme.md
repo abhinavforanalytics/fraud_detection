@@ -4,3 +4,4 @@
 ## new test
 =======
 >>>>>>> parent of 48d71fe (second commit)
+my new merge
